@@ -1,0 +1,15 @@
+C:\Users\linck\Desktop\Dev\C#\Wind\bin\Debug\Wind.exe.config
+C:\Users\linck\Desktop\Dev\C#\Wind\bin\Debug\Wind.exe
+C:\Users\linck\Desktop\Dev\C#\Wind\bin\Debug\Wind.pdb
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.csproj.AssemblyReference.cache
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\MainWindow.g.cs
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\App.g.cs
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind_MarkupCompile.cache
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind_MarkupCompile.lref
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\MainWindow.baml
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.g.resources
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.Properties.Resources.resources
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.csproj.GenerateResource.cache
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.csproj.CoreCompileInputs.cache
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.exe
+C:\Users\linck\Desktop\Dev\C#\Wind\obj\Debug\Wind.pdb
